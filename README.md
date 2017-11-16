@@ -1,4 +1,4 @@
-Python Workshop Materials at Mesa College 11/16/2017
+Python Workshop Materials 11/16/2017 at Mesa College
 
 Files include:
 
